@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.8
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kata20170819_FindTheDivisors", "Kata20170819_FindTheDivisors\Kata20170819_FindTheDivisors.csproj", "{06636B8D-8A1E-412C-A12A-60A08AA7AF3A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{06636B8D-8A1E-412C-A12A-60A08AA7AF3A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{06636B8D-8A1E-412C-A12A-60A08AA7AF3A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{06636B8D-8A1E-412C-A12A-60A08AA7AF3A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{06636B8D-8A1E-412C-A12A-60A08AA7AF3A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4B0E0785-6839-4155-8DD1-A5C4FC319563}
+	EndGlobalSection
+	GlobalSection(CodealikeProperties) = postSolution
+		SolutionGuid = f61ae987-53d6-4c95-95bd-9e277c2cc0b6
+	EndGlobalSection
+EndGlobal
